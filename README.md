@@ -1,3 +1,3 @@
 Codex
 =====
-This a java application for codechef type website using sql database.
+This a java program for codechef type website using sql database.
